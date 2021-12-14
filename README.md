@@ -1,0 +1,2 @@
+# osuhack
+Free osu hack
